@@ -7,7 +7,7 @@ HISTORIA 4 -> 3 dias
 
 ---
 # 30 Sept 2022 🔫
-![[tarea seminario 2.png]]
+![](img/tarea seminario 2.png)
 
 ---
 Tarea:

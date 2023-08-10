@@ -1,12 +1,12 @@
 # 25 Marzo 2022
 ---
-![[sem 4 ej 1.png]]
-![[ej resuelto sem 4.png]]
+![](img/sem 4 ej 1.png)
+![](img/ej resuelto sem 4.png)
 NOTA: a mayor tamaño de página, mayor fragmentación interna y menor fragmentación de tabla.
 NOTA: Las páginas pequeñas se adecúan mejor al pruncipio de localidad
-![[sem 4 ej 2.png]]
+![](img/sem 4 ej 2.png)
 
-![[ej 2 sem 4 resuelto.png]]
+![](img/ej 2 sem 4 resuelto.png)
 - En *paginación* el espacio del proceso es un conjunto de espacios continuos.
 - En *segmentación* es distinto, un proceso es un conjunto de segmentos pero que no tienes espacios contiguos.
 

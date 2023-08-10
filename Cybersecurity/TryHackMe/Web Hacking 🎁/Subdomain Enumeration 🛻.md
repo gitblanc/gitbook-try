@@ -2,9 +2,9 @@
 - **Search Engines** -> `-site:<www.domain.com> site:*.<domain.com>*`, only contains results leading to the domain name "domain.com" but exclude any links domain.com.
 - **BruteForce DNS** -> method that tries thousands of different possible subdomains from a pred-defined list of commonly used domains.
 
-![[subdomain 1.png]]
-![[subdomain 2.png]]
-![[subdomain 3.png]]
-![[subdomain 4.png]]
-![[subdomain 5.png]]
-![[subdomain 6.png]]
+![](img/subdomain 1.png)
+![](img/subdomain 2.png)
+![](img/subdomain 3.png)
+![](img/subdomain 4.png)
+![](img/subdomain 5.png)
+![](img/subdomain 6.png)
