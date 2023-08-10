@@ -25,7 +25,7 @@
 	  - Instala el software `sudo apt install lynis` y verifica la versión `lynis show version`
 	  - Ejecuta: `lynis audit system` para validar tu máquina virtual
 - Nmap cheatsheet:
-![[Pasted image 20230204113531.png]]
+![](Pasted image 20230204113531.png)
 - Para comprobar que una contraseña es segura visitar: https://password.kaspersky.com/
 - Habilitar el software de escaneo de malware / rootkits:
 	- Intalar el **tool Chkrootkit** (rootkits): `sudo apt install chkroot`
